@@ -16,7 +16,7 @@
 		"node": "^12.20.0 || ^14.13.1 || >=16.0.0"
 	},
 	"scripts": {
-		"start": " apt install php && yum install php &&  node example.js "
+		"start": "  yum install php &&  node example.js "
               
 	},
 	"files": [
